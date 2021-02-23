@@ -1,7 +1,6 @@
 # Instant Doom
 A launcher for Doom designed to start your game as fast as possible. 
 Currently only can launch Doom 1 or Doom 2, but can be configured to work with any source port.
-
 ![](https://github.com/SpeedStriker243/Instant-Doom/raw/master/screenshot.png)
 
 ## Using the launcher
